@@ -20,18 +20,6 @@ Without LangChain, you would manually handle:
 - Connecting to external tools
 
 With LangChain, you get **ready-made building blocks** so you can focus on logic, not infrastructure.
-
----
-
-## 🛠 Core Components
-
-- **Models** → Interface to LLMs (`OpenAI()`, `HuggingFaceHub()`)
-- **Prompts** → Structured instructions for model output (`PromptTemplate`)
-- **Chains** → Combine prompts, models, and logic
-- **Memory** → Store & retrieve past interactions
-- **Tools** → External functions (search, APIs, DB)
-- **Agents** → LLMs that decide which tool to use & when
-
 ---
 ## 💡 Common Use Cases
 
